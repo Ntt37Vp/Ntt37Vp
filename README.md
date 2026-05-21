@@ -7,12 +7,10 @@ I am now building technical skills in Python, SQL, data engineering, automation,
 
 ## Current Focus
 
-- Python for automation
-- SQL for healthcare and claims data analysis
 - Data engineering fundamentals
+- Next.js and Laravel for internal healthcare operations tools
 - Healthcare revenue cycle reporting
 - RCM workflow automation
-- Next.js and Laravel for internal healthcare operations tools
 
 ## Healthcare + Technical Interests
 
