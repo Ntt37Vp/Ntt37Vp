@@ -1,8 +1,8 @@
 # Kevin J
 
-US Healthcare Revenue Cycle Management professional transitioning into healthcare data engineering and automation.
+US Healthcare Revenue Cycle Management professional learning about Data Engineering.
 
-I have 18+ years of experience in medical billing, coding, claims, denials, A/R follow-up, payer workflows, and healthcare outsourcing operations. 
+I have 18+ years of experience in medical billing, medical coding, claims, denials, A/R follow-up, payer workflows, and healthcare outsourcing operations. 
 I am now building technical skills in Python, SQL, data engineering, automation, and web development with a focus on practical healthcare RCM use cases.
 
 ## Current Focus
@@ -19,6 +19,8 @@ I am now building technical skills in Python, SQL, data engineering, automation,
 - CPT, ICD-10, and payer data normalization
 - CSV and Excel claim report processing
 - RCM KPI reporting
+- HL7
+- FHIR
 
 ## Selected Projects
 
