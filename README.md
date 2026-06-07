@@ -19,22 +19,22 @@ I am now building technical skills in Python, SQL, data engineering, automation,
 - CPT, ICD-10, and payer data normalization
 - CSV and Excel claim report processing
 - RCM KPI reporting
-- HL7
-- FHIR
+- HL7 & FHIR
+
 
 ## Selected Projects
 
 ### RCM Claims Center
 A healthcare claims tracking concept designed to accept raw CSV or Excel A/R reports from systems like eClinicalWorks, WRS Health, TherapyNotes, and IntakeQ, then normalize them into a standard RCM Staff workflow.
 
-Tech: Laravel, PHP, MySQL, CSV/Excel processing
-
-
-### CS50 SQL
-SQL practice and notes focused on database fundamentals.
+### RCMStaff Company Website
+Redesigned company website using TS. Lighthouse score is at 100% across all categories.
 
 ### CPT and ICD-10 Data Repositories
 Healthcare code datasets used for learning, reference, and future data projects.
+
+### CS50 SQL
+SQL practice and notes focused on database fundamentals.
 
 ## Background
 
